@@ -1,3 +1,4 @@
+HEAD
 # CareProtocol — AI Rehab Tracker x Solana Devnet
 
 MVP hackathon: đếm cử động phục hồi hậu phẫu bằng MediaPipe Pose ngay trên trình duyệt,
@@ -92,3 +93,6 @@ Trình duyệt bệnh nhân
 | AI không đếm được rep | Đứng lùi xa hơn, đảm bảo đủ ánh sáng và chân phải nằm trọn trong khung hình. |
 | Airdrop báo lỗi "429 rate limited" | Devnet giới hạn tần suất công khai — chờ 1-2 phút hoặc dùng `https://faucet.solana.com`. |
 | Phantom không hiện nút Connect | Đảm bảo đã cài extension Phantom và tải lại trang (F5). |
+
+# CareProtocol-Web
+>>>>>>> 6bf4ee3b86bca87f16c9c550099b8bf521ce74e0
