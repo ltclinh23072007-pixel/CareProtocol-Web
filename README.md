@@ -95,4 +95,4 @@ Trình duyệt bệnh nhân
 | Phantom không hiện nút Connect | Đảm bảo đã cài extension Phantom và tải lại trang (F5). |
 
 # CareProtocol-Web
->>>>>>> 6bf4ee3b86bca87f16c9c550099b8bf521ce74e0
+>>>>>>> 6bf4ee3b86bca87f16c9c550099b8bf521ce74e0 
